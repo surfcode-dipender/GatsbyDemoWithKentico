@@ -22,7 +22,7 @@ const BlogReference = ({data}) => {
               <td>{item.post_url.value}</td>
             </tr>
             <tr>
-              <th>Content:</th>
+              <th>Content from Git:</th>
               <td>
                {item.content.value}
                
